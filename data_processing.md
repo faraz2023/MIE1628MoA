@@ -1,0 +1,5 @@
+- one-hot
+- drop vehicle
+- drop high corr
+- stadnardazation
+- 
