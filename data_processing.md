@@ -2,4 +2,4 @@
 - drop vehicle
 - drop high corr
 - stadnardazation
-- 
+- raddom forrest drop features
