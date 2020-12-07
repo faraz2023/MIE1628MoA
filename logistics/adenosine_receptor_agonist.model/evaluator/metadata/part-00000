@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.evaluation.MulticlassClassificationEvaluator","timestamp":1607286266570,"sparkVersion":"3.0.1","uid":"MulticlassClassificationEvaluator_957321e8b0db","paramMap":{"metricName":"logLoss"},"defaultParamMap":{"metricLabel":0.0,"predictionCol":"prediction","probabilityCol":"probability","beta":1.0,"eps":1.0E-15,"metricName":"f1","labelCol":"label"}}
