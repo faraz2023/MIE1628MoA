@@ -7,7 +7,11 @@ train_feats.csv
 
 
 
-logistics/
-naive-bayes/
-decision-tree/
-logistics-baseline/
+logistics/*.parquet
+logistics/*.model
+naive-bayes/*.paquet
+naive-bayes/*.model
+decision-tree/*.parquet
+decision-tree/*.model
+logistics-baseline/*.parquet
+logistics-baseline/*.model
