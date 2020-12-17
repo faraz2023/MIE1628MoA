@@ -1,6 +1,0 @@
-- one-hot
-- drop vehicle
-- drop high corr
-- stadnardazation
-- raddom forrest drop features
-- max/min of gene and cell
