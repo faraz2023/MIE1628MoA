@@ -15,3 +15,7 @@ decision-tree/*.parquet
 decision-tree/*.model
 logistics-baseline/*.parquet
 logistics-baseline/*.model
+logistics-baseline-new/*.model
+logistics-baseline-new/*.parquet
+logistics_new/*.model
+logistics_new/*.parquet
